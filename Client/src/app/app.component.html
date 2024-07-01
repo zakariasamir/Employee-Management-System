@@ -1,0 +1,14 @@
+<mat-toolbar color="primary">
+  <span>Employee Management</span>
+  <span class="spacer"></span>
+  <button mat-button routerLink="/employees" routerLinkActive="active">
+    Employee List
+  </button>
+  <button mat-button routerLink="/employees/add" routerLinkActive="active">
+    Add Employee
+  </button>
+</mat-toolbar>
+
+<div class="container">
+  <router-outlet></router-outlet>
+</div>

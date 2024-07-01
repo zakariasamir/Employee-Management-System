@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\validator\\updateemployeecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\validator\\updateemployeecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\validator\\getemployeebyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\validator\\getemployeebyidqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\validator\\deleteemployeecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\validator\\deleteemployeecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\validator\\createemployeecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\validator\\createemployeecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\queries\\getemployeebyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\queries\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\queries\\getallemployeesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\queries\\handlers\\getemployeebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\queries\\handlers\\getemployeebyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\queries\\handlers\\getallemployeesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\queries\\handlers\\getallemployeesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\migrations\\20240627090132_addemployeestabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\migrations\\20240627090132_addemployeestabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\commands\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\commands\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|c:\\users\\zakar\\source\\repos\\employeemanagementapi\\employeemanagementapi\\commands\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBF4E96-F42C-411D-89DB-4CF056199145}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\commands\\createemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 209,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEmployeeCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Validator\\CreateEmployeeCommandValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Validator\\CreateEmployeeCommandValidator.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Validator\\CreateEmployeeCommandValidator.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Validator\\CreateEmployeeCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:34:00.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteEmployeeCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Validator\\DeleteEmployeeCommandValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Validator\\DeleteEmployeeCommandValidator.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Validator\\DeleteEmployeeCommandValidator.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Validator\\DeleteEmployeeCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:49:29.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetEmployeeByIdQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Validator\\GetEmployeeByIdQueryValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Validator\\GetEmployeeByIdQueryValidator.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Validator\\GetEmployeeByIdQueryValidator.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Validator\\GetEmployeeByIdQueryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:47:52.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateEmployeeCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Validator\\UpdateEmployeeCommandValidator.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Validator\\UpdateEmployeeCommandValidator.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Validator\\UpdateEmployeeCommandValidator.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Validator\\UpdateEmployeeCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:30:47.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:10:28.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetEmployeeByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Queries\\GetEmployeeByIdQuery.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Queries\\GetEmployeeByIdQuery.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Queries\\GetEmployeeByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:40:11.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllEmployeesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Queries\\GetAllEmployeesQuery.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Queries\\GetAllEmployeesQuery.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Queries\\GetAllEmployeesQuery.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Queries\\GetAllEmployeesQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:32:35.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetEmployeeByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Queries\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Queries\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Queries\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Queries\\Handlers\\GetEmployeeByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:32:18.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAllEmployeesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Queries\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Queries\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Queries\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Queries\\Handlers\\GetAllEmployeesQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:32:09.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:31:26.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240627090132_AddEmployeesTableToDb.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\20240627090132_AddEmployeesTableToDb.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Migrations\\20240627090132_AddEmployeesTableToDb.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Migrations\\20240627090132_AddEmployeesTableToDb.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Migrations\\20240627090132_AddEmployeesTableToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:30:56.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T01:30:51.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:16:16.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Commands\\UpdateEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Commands\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Commands\\UpdateEmployeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:16:42.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Models\\Employees.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:38:03.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Commands\\CreateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Commands\\CreateEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Commands\\CreateEmployeeCommand.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Commands\\CreateEmployeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T14:16:36.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Commands\\DeleteEmployeeCommand.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Commands\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Commands\\DeleteEmployeeCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:00:42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Data\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Data\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Data\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Data\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:37:55.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Dto\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Dto\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\zakar\\source\\repos\\EmployeeManagementAPI\\EmployeeManagementAPI\\Dto\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Dto\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T15:13:18.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 139,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
